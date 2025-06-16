@@ -15,30 +15,19 @@ expo install react-native-vector-icons
 2. **Criar uma pasta src/fireBaseConnections e adicionar as credenciais enviadas em pdf**
 
 3. **As pastas devem ser organizadas da seguinte forma:**
-├── App.js                    
+├── App.js
+├── components/
+│   ├── IconButton.js
+│   └── assinatura/
+│       └── ListaAssinatura.js
 ├── screens/
-             
-│       ├── TelaInicial.js/  
-
-│       ├── ListaCompleta.js/ 
-
-│       └── AdicionarAssinatura.js/  
+│   ├── AdicionarAssinatura.js
+│   ├── ListaCompleta.js
+│   └── TelaInicial.js
 ├── src/
-
-│       └── fireBaseConnections.js/ 
-
-|       └──  metro.config.js/
-
-|       └─  auth-contexto.js
-
-├──components/
-
-|      └──assinatura
-
-|                └──   ListaAssinatura.js/
-
-|      └─IconButton.js
-|
+│   ├── fireBaseConnections.js
+│   ├── metro.config.js
+│   └── auth-contexto.js
 
 
 
