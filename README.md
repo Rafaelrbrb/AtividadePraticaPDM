@@ -17,15 +17,15 @@ expo install react-native-vector-icons
 3. **As pastas devem ser organizadas da seguinte forma:**
 ├── App.js
 ├── metro.config.js
-├── components/
+├── components
 │   ├── IconButton.js
-│   └── assinatura/
+│   └── assinatura
 │       └── ListaAssinatura.js
-├── screens/
+├── screens
 │   ├── AdicionarAssinatura.js
 │   ├── ListaCompleta.js
 │   └── TelaInicial.js
-├── src/
+├── src
 │   ├── fireBaseConnections.js
 │   └── auth-contexto.js
 
