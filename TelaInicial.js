@@ -21,7 +21,7 @@ export default function TelaInicial() {
     if (!uid) return;
 
     const q = query(
-      collection(db, "usuarios/${uid}/assinaturas"),
+      collection(db, `usuarios/${uid}/assinaturas`),
       orderBy("dataRenovacao", "asc")
     );
 
