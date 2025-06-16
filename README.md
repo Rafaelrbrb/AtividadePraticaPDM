@@ -23,6 +23,7 @@ expo install react-native-vector-icons
 ├── src/
 │   └── fireBaseConnections.js/  
 |   └──  metro.config.js/
+|   └─  auth-contexto.js
 ├──components/
 |  └──assinatura
 |            └──   ListaAssinatura.js/
