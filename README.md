@@ -21,7 +21,7 @@ expo install react-native-vector-icons
 ├── components
 │   ├── IconButton.js
 │   └── assinatura
-│       └── ListaAssinatura.js
+│       └── ListaAssinaturas.js
 ├── screens
 │   ├── AdicionarAssinatura.js
 │   ├── ListaCompleta.js
