@@ -13,7 +13,7 @@ expo install @react-native-firebase/app
 expo install @react-native-firebase/firestore
 expo install react-native-vector-icons
 
-2. **Criar uma pasta src/fireBaseConnections e adicionar as credenciais enviadas em pdf**
+2. **Criar uma pasta src/firebaseConnection e adicionar as credenciais enviadas em pdf**
 
 3. **As pastas devem ser organizadas da seguinte forma:**
 ├── App.js
@@ -27,7 +27,7 @@ expo install react-native-vector-icons
 │   ├── ListaCompleta.js
 │   └── TelaInicial.js
 ├── src
-│   ├── fireBaseConnections.js
+│   ├── firebaseConnection.js
 │   └── auth-contexto.js
 
 
