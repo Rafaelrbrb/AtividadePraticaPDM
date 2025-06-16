@@ -18,26 +18,26 @@ expo install react-native-vector-icons
 ├── App.js                    
 ├── screens/
              
-│   ├── TelaInicial.js/  
+│       ├── TelaInicial.js/  
 
-│   ├── ListaCompleta.js/ 
+│       ├── ListaCompleta.js/ 
 
-│   └── AdicionarAssinatura.js/  
+│       └── AdicionarAssinatura.js/  
 ├── src/
 
-│   └── fireBaseConnections.js/ 
+│       └── fireBaseConnections.js/ 
 
-|   └──  metro.config.js/
+|       └──  metro.config.js/
 
-|   └─  auth-contexto.js
+|       └─  auth-contexto.js
 
 ├──components/
 
-|  └──assinatura
+|      └──assinatura
 
-|            └──   ListaAssinatura.js/
+|                └──   ListaAssinatura.js/
 
-|  └─IconButton.js
+|      └─IconButton.js
 |
 
 
